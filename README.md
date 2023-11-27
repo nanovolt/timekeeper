@@ -1,6 +1,8 @@
 # timekeeper
 Pomodoro-style time tracking app with local sql database and nice statistics graphs
 
+![Timekeeper app!](/timekeeper_git.png "Timekeeper app")
+
 ## Installation
 install venv
 
